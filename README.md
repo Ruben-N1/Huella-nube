@@ -39,7 +39,9 @@ Para utilizar el proyecto:
 La copia publicada deja el webhook del HTML vacío y el blueprint sin las conexiones originales. Si el navegador bloquea la respuesta desde otro origen, configura los permisos de origen en la respuesta de Make.
 
 ## Video del funcionamiento
-[Ver demostración sin audio](video/Huella_nube_sin_audio.mp4)
+[![Ver video del funcionamiento](https://img.youtube.com/vi/2tURWJ1fCno/hqdefault.jpg)](https://youtu.be/2tURWJ1fCno)
+
+[Ver en YouTube](https://youtu.be/2tURWJ1fCno) · [Video sin audio en el repositorio](video/Huella_nube_sin_audio.mp4)
 
 ## Imágenes
 Captura de una ejecución del escenario en Make:
